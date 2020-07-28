@@ -1,4 +1,4 @@
-<img align="left" width="196" height="196" src="https://github.com/antoniodvr/antoniodvr/blob/add-images/images/hi.png?raw=true"></a>
+<img align="left" width="200" height="200" src="https://github.com/antoniodvr/antoniodvr/blob/add-images/images/hi.png?raw=true"></a>
 
 ### Hi, I'm Antonio 👋🏼 👨🏻‍💻
 

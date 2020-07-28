@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Antonio 👋🏼 👨🏻‍💻
+
+I'm a software architect who is passionate about making world more accessible, creating technology, and improve everything. I'm focusing on the use of microservice architectures and experimenting a way to turn coffee into code! ☕
 
 <!--
 **antoniodvr/antoniodvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,9 +2,9 @@
 
 ### Hi, I'm Antonio 👋🏼 👨🏻‍💻
 
-I'm a software architect who is passionate about making world more accessible, creating technology and improving everything I get in touch. I'm focusing on the use of microservice architectures and experimenting a way to turn coffee ☕ into code 😜!
+I'm a software architect who is passionate about making world more accessible, creating technology and improving everything I get in touch.
 
-I like computers, photography, music, dogs and traveling to discover the world 🌍.
+I like computers, innovation, photography, music, dogs and traveling to discover the world 🌍.
 
 [Find me on LinkedIn](https://www.linkedin.com/in/antoniodvr/)
 

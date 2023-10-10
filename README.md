@@ -2,9 +2,9 @@
 
 ### Hi, I'm Antonio 👋🏼 👨🏻‍💻
 
-I'm a software architect who is passionate about making world more accessible, creating technology and improving everything I get in touch.
+I'm a creative problem solver and diverse thinker who like making the world more accessible, creating technology and improving everything I get in touch.
 
-I like computers, innovation, photography, music, dogs and traveling to discover the world 🌍.
+I'm passionate about `#java`, `#technology`, `#systemdesign`, `#distributedsystems`, `#softwareengineering` and I like traveling to discover the world and different cultures 🌍.
 
 [Find me on LinkedIn](https://www.linkedin.com/in/antoniodvr/)
 
